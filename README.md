@@ -23,7 +23,7 @@
 * [TorchSharp](https://github.com/dotnet/TorchSharp)
 * [TensorflowSharp](https://github.com/migueldeicaza/TensorFlowSharp)
 * [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet/)
-* [FaceRecognitionSharp](https://github.com/GabryB03/FaceRecognitionSharp/)
+* [FaceRecognitionSharp](https://github.com/ZygoteCode/FaceRecognitionSharp/)
 * [DlibDotNet](https://github.com/takuya-takeuchi/DlibDotNet)
 * [OpenCVSharp](https://github.com/shimat/opencvsharp)
 * [Numpy.NET](https://github.com/SciSharp/Numpy.NET)
